@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; 
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+    
+  }
+  
+  .matrix-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .matrix-section {
+    border: 2px solid #333;
+    padding: 10px;
+    flex: 1;
+    overflow-x: auto;
+    text-align: center;
+    background-color: #f9f9f9;
+    margin:20px
+  }
+  
+  .matrix-section h2 {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  input[type="number"], button {
+    margin: 10px;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+  
+  input[type="number"] {
+    width: 100px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .result-section {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .matrix-section table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .matrix-section td, .matrix-section th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .matrix-section input {
+    width: 50px;
+    text-align: center;
+    padding: 5px;
+  }
+  
