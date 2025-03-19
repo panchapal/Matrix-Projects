@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# 🧮 Matrix Operations with React 🚀
+Welcome to the Matrix Operations project! This React application lets you dynamically generate and manipulate matrices with operations like addition, subtraction, and multiplication. Whether you're a math lover, a student, or a developer learning React, this project is perfect for you! 🌟
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 🌍 Weblink: [View](https://matrix-projects.vercel.app)
+## 📸 Screenshots:
+<img width="450px;" src="https://github.com/panchapal/Matrix-Projects/blob/main/public/img/1.png"/>
+<img width="450px;" src="https://github.com/panchapal/Matrix-Projects/blob/main/public/img/2.png"/>
+<img width="450px;" src="https://github.com/panchapal/Matrix-Projects/blob/main/public/img/3.png"/>
+<img width="450px;" src="https://github.com/panchapal/Matrix-Projects/blob/main/public/img/4.png"/>
 
-## Available Scripts
+## 📋 Table of Contents
+- 🚀 [Features](#features)
+- 🛠  [Tech Stack](#techstack)
+- 🛠️ [How It Works](#howitworks)
+- 📞 [Contact](#contact)
 
-In the project directory, you can run:
 
-### `npm start`
+## 🚀 Features
+<br/>✅Matrix Generation: Dynamically generate matrices based on user-defined rows and columns. 🛠️
+<br/>✅Matrix Operations: Perform addition, subtraction, and multiplication on two matrices. ➕➖✖️
+<br/>✅Interactive Tables: Edit matrix values directly in the table. 📊
+<br/>✅Real-Time Results: Instantly view the result of your operations in a beautifully formatted table. 🎉
+<br/>✅Responsive Design: Works seamlessly on all screen sizes. 📱💻
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ How It Works
+<br/>1️⃣ Enter Dimensions – Input the number of rows and columns for your matrices.
+<br/>2️⃣ Generate Matrices – Click “Generate Tables” to create Matrix A and Matrix B.
+<br/>3️⃣ Edit Matrices – Modify values directly by clicking on cells.
+<br/>4️⃣ Perform Operations – Choose between addition, subtraction, or multiplication.
+<br/>5️⃣ View Results – The result matrix appears instantly! 🎉
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
+<br/>🚀 React – For building the user interface.
+<br/>📜 JavaScript – For handling matrix calculations.
+<br/>🎨 CSS – For styling the application.
+<br/>📂 HTML – For structuring components.
 
-### `npm test`
+## 🙏 Acknowledgments
+<br/>📚 Inspired by linear algebra and matrix operations.
+<br/>💙 Built with React and passion for learning.
+<br/>⭐ If you find this project useful, don't forget to star it on GitHub!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📞 Contact
+<br/>👤 Name: Panchanan Pal
+<br/>📧 Email: panchananpal13@gmail.com
+<br/>📞 Phone: +91 9800400661
+<br/>🔗 LinkedIn: Panchanan Pal
+<br/>🐙 GitHub: panchapal
 
-### `npm run build`
+📜 Copyright Notice
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2025 [PANCHANAN PAL]. All rights reserved. This app and its contents are the intellectual property of [PANCHANAN PAL] and may not be copied, modified, or distributed without permission.
